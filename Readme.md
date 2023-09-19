@@ -1,2 +1,2 @@
 # Just a portfolio
-my simple portfolio files
+my simple portfolio files with nice features :)
