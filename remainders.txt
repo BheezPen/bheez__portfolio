@@ -7,3 +7,5 @@ updATE FOOTER PROFILE LINK AND THAT AT HOME SECIONS
 the form text check if it submits to my mail using netlify 
 
 change second picture
+
+update the portfolio job list
