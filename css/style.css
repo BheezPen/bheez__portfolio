@@ -640,10 +640,10 @@ nav{
 
 @keyframes sklearn {
     from {width: 0%;}
-    to {width: 50%;}
+    to {width: 75%;}
 }
 .skills__sklearn{
-    width: 50%;
+    width: 75%;
     animation-name: sklearn;
     animation-duration: 5s;
     animation-fill-mode: forwards;
