@@ -650,13 +650,13 @@ nav{
 }
 
 
-@keyframes natural-language-processing {
+@keyframes tensorflow {
     from {width: 0%;}
-    to {width: 60%;}
+    to {width: 65%;}
 }
-.skills__natural-language-processing{
-    width: 60%;
-    animation-name: natural-language-processing;
+.skills__tensorflow{
+    width: 65%;
+    animation-name: tensorflow;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
@@ -700,10 +700,10 @@ nav{
 
 @keyframes Deeplearning {
     from {width: 0%;}
-    to {width: 50%;}
+    to {width: 60%;}
 }
 .skills__deeplearning{
-    width: 50%;
+    width: 60%;
     animation-name: deeplearning;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -721,10 +721,10 @@ nav{
 }
 @keyframes git {
     from {width: 0%;}
-    to {width: 60%;}
+    to {width: 70%;}
 }
 .skills__git{
-    width: 60%;
+    width: 70%;
     animation-name: git;
     animation-duration: 5s;
     animation-fill-mode: forwards;
