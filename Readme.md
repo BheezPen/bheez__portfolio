@@ -3,3 +3,5 @@
 **Adding more content to this later!!**
 
 ## 👩‍💻 Checkout live page - https://bheez.netlify.app :)
+
+## Thanks to netlify for the hosting offer!!
